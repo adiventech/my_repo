@@ -1,0 +1,7 @@
+This is an instruction file 
+
+1. Clone the remote branch 
+2. Make changes 
+3. Add to the local rep 
+4. Commit the changes to local branch 
+5, Push the changes to remote branch 
